@@ -1,5 +1,5 @@
-# JavaScript Calculator Program |  Calculator App with JavaScript
-JavaScript Calculator Program
+# JavaScript Calculator Program
+JavaScript calculator to perform basic mathamtic operations
 
 Article: https://speedysense.com/javascript-calculator-program/
 
